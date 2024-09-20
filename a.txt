@@ -1,2 +1,4 @@
 Hello world
 This is Kumar Deepak
+I am a BCA Graduate
+and now passonate about Learning DataScience
